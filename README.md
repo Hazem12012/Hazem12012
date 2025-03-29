@@ -5,7 +5,7 @@
 <img src="./assets/github.gif" width="100"/>
 
 <h1>
-Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
+Hi 👋, I'm Hazem Mahmoud El-Sayed
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
 </h1>
    </div>
