@@ -18,7 +18,7 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 <br>
 
 ### Connect with me:
-<div style="display: flex; align-items: flex-start; align: center" align="center" >
+<div style="display: flex; align-items: flex-start; align: center flex-direction:row" align="center" >
 
 <a href="https://linkedin.com/in/hazem mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem mahmoud" height="30" width="40" /></a>
 
