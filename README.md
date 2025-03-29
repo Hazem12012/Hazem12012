@@ -16,8 +16,7 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
    <div style="display: flex; align-items: flex-start; align: center">
         <tr>
             <td>
-                <a href="https://www.linkedin.com/in/hazem-abo-el-seoud-168bb4290/"></a>
-                <p styles=" color:'red'">Linked in</p>
+                <a href="https://www.linkedin.com/in/hazem-abo-el-seoud-168bb4290/"><p styles=" color:'red'">Linked in</p><a> 
             </td>
         </tr>
    </div>
@@ -28,7 +27,7 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 
 ### My skills and tools :
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; align: center" align="center">
 <table align="center">
   <tr>
     <td align="center" width="88">
@@ -46,6 +45,10 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
     <td align="center" width="88">
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
       <br>React.js
+    </td>
+        <td align="center" width="88">
+        <img src="./images/vitejs.svg" alt="React" width="44" height="44"/>
+      <br>Vitejs  
     </td>
         <td align="center" width="88">
         <img src="./images/c++.svg" alt="Python" width="44" height="44"/>
