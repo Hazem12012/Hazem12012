@@ -8,8 +8,17 @@
 Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
 </h1>
+<br>
 
    </div>
+
+
+  
+### About Me :
+
+<h3>Frontend Developer Building Interactive & Scalable Web Experiences by ReactJS💪.</h3>
+
+<br>
 
 ### Connect with me:
 
@@ -20,12 +29,7 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 <a href="https://fb.com/bkvjhvjhgvcjhvjycvjgcgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bkvjhvjhgvcjhvjycvjgcgh" height="30" width="40" /></a>
 </p>
    </div>
-  
-### About Me :
-
-<h3>Frontend Developer Building Interactive & Scalable Web Experiences by ReactJS💪.</h3>
-
-<br>
+   <br>
 
 ### My skills and tools :
 
