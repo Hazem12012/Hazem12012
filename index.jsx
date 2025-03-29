@@ -1,6 +1,12 @@
 /** @format */
 
 import React from "react";
+styles = {
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+flexDirection: "column",
+}
 
 function index() {
     return (
