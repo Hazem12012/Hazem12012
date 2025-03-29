@@ -5,7 +5,7 @@
 <img src="./assets/github.gif" width="100"/>
 
 <h1>
-Hey there, I'm Viktor!
+Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
 </h1>
 
@@ -13,27 +13,10 @@ Hey there, I'm Viktor!
   
 ### About Me :
 
-Passionate Software Developer | Web Design Enthusiast
+Frontend Developer Building Interactive & Scalable Web Experiences by ReactJS.
 
-### Languages :
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table  align="center">
-  <tr>
-    
-        🇺🇦 Ukrainian - Native
-        
-  </tr>
-
-  <tr>
-    
-        🇬🇧 English - Pre-Intermediate
-        
-  </tr>
-</table>
-</div>
-
-### My stack and tools :
+### My skills and tools :
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
