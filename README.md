@@ -23,7 +23,7 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
   
 ### About Me :
 
-👨‍💻Frontend Developer Building Interactive & Scalable Web Experiences by ReactJS.
+<h3>Frontend Developer Building Interactive & Scalable Web Experiences by ReactJS💪.</h3>
 
 ### My skills and tools :
 
@@ -91,6 +91,9 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
 </div>
 
+<br>
+<br>
+
 <table align="center">
   <tr>
   <td>
@@ -101,11 +104,6 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
   </td>
   </tr>
 </table>
-
-
-
-
-
 
 <br>
 <br>
