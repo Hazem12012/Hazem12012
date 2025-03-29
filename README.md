@@ -18,7 +18,7 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 <br>
 
 ### Connect with me:
-<div styles="display: flex; align-items: flex-start; align: center align=center flex-direction:row " ></div>
+<div styles="display: flex; align-items: flex-start; align: center align=center flex-direction:row " >
 
 <a href="https://linkedin.com/in/hazem mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem mahmoud" height="30" width="40" /></a>
 
@@ -28,6 +28,7 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 
 <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="bkvjhvjhgvcjhvjycvjgcgh" height="30" width="40" /></a>
 
+ </div>
    <br>
 
 ### My skills and tools :
