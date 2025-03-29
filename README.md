@@ -18,28 +18,20 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 <br>
 
 ### Connect with me:
+
 <div style="display: flex; align-items: flex-start; align: center" align="start" >
 
 <tr>
-<td><a href="https://www.linkedin.com/in/hazem-abo-el-seoud-168bb4290/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem mahmoud" height="30" width="40" /></a></td>
+<td><a href="https://www.linkedin.com/in/hazem-abo-el-seoud-168bb4290/" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem mahmoud" height="30" width="40" /></a></td>
 <td>               </td>
 
-<td><a href="#" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bkvjhvjhgvcjhvjycvjgcgh" height="30" width="40" /></a></td>
+<td><a href="#" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bkvjhvjhgvcjhvjycvjgcgh" height="30" width="40" /></a></td>
 
  <td>                     </td>
 
-<td><a href="hazemmahmoud12012@gmail.com" target="blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="bkvjhvjhgvcjhvjycvjgcgh" height="30" width="40" /></a></td>
-
-
-
-
+<td><a href="hazemmahmoud12012@gmail.com" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="bkvjhvjhgvcjhvjycvjgcgh" height="30" width="40" /></a></td>
 
 </tr>
-
-
-
-
-
 
  </div>
    <br>
