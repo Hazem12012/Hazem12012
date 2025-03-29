@@ -90,5 +90,51 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 <br>
 <br>
 
+<!-- ///// -->
 
+# 👋 مرحبًا، أنا [اسمك]  
 
+## 🚀 مطور واجهة أمامية | Frontend Developer  
+
+متخصص في بناء واجهات ويب حديثة باستخدام **HTML, CSS, JavaScript, React**. أهدف إلى تطوير تجارب مستخدم سلسة وأداء عالٍ.  
+
+---
+
+## 📌 الروابط الهامة  
+
+🔗 [حسابي على GitHub](https://github.com/YourGitHubUsername)  
+🌐 [موقعي الشخصي](https://yourwebsite.com)  
+💼 [LinkedIn](https://linkedin.com/in/YourProfile)  
+
+---
+
+## 📂 مشاريعي البارزة  
+
+### 🎨 **[مشروع 1 - اسم المشروع](https://github.com/YourGitHubUsername/Project1)**  
+🔹 وصف المشروع باختصار وما يقدمه للمستخدم.  
+🔹 التقنيات المستخدمة: **React, Tailwind CSS, API integration**  
+
+### 📊 **[مشروع 2 - اسم المشروع](https://github.com/YourGitHubUsername/Project2)**  
+🔹 فكرة المشروع وأهم الميزات.  
+🔹 الأدوات المستخدمة: **Next.js, TypeScript, Firebase**  
+
+---
+
+## ⚡ المهارات والتقنيات  
+
+✔ **لغات البرمجة:** JavaScript, TypeScript  
+✔ **إطارات العمل:** React, Next.js  
+✔ **تصميم الواجهات:** Tailwind CSS, Bootstrap  
+✔ **إدارة البيانات:** Redux, Context API  
+✔ **أدوات التطوير:** Git, GitHub, Webpack  
+
+---
+
+## 📬 تواصل معي  
+
+✉ **البريد الإلكتروني:** your.email@example.com  
+🐦 **تويتر:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
+
+---
+
+🚀 *شكرًا لزيارتك! لا تتردد في التواصل معي أو استكشاف مشاريعي!*  
