@@ -88,29 +88,16 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 
 ### GitHub Stats :
 
-<table align="center">
-  <tr>
-  <td>
-  <a href="https://github.com/ViktorSvertoka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ViktorSvertoka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viktor Svertoka github stats" /></a>
-  </td>
-  <td>
-  <a href="https://github.com/ViktorSvertoka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=buefy&hide_border=true" /></a>
-  </td>
-  </tr>
-</table>
 <div align=center> 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
 </div>
-<br>
-<br>
-
-
-
-
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem12012&show_icons=true&locale=en&layout=compact" alt="hazem12012" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazem12012&show_icons=true&locale=en" alt="hazem12012" /></p>
+
+<br>
+<br>
 <!-- //////// -->
 <h1 align="center">Hi 👋, I'm Hazem Mahmoud Abo El-Seoud</h1>
 <h3 align="center">Frontend Developer Building Interactive & Scalable Web Experiences by ReactJS.</h3>
