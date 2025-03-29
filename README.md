@@ -33,7 +33,7 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 
 ### My skills and tools :
 
-<div style="display: flex; align-items: flex-start; align: center" align="center">
+<div style="display: flex; align-items: flex-start; align: center" align="right">
 <table align="center">
   <tr>
     <td align="center" width="88">
