@@ -22,14 +22,13 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 
 <tr>
 <td><a href="https://linkedin.com/in/hazem mahmoud" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem mahmoud" height="30" width="40" /></a></td>
+<td>               </td>
+
 <td><a href="#" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bkvjhvjhgvcjhvjycvjgcgh" height="30" width="40" /></a></td>
+
+ <td>                     </td>
+
 <td><a href="#" target="blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="bkvjhvjhgvcjhvjycvjgcgh" height="30" width="40" /></a></td>
-
-
-
-
-
-
 
 
 
