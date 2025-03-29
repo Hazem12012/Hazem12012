@@ -13,11 +13,11 @@ Hi 👋, I'm Hazem Mahmoud Abo El-Seoud
 
 ### LINKS :
 
-   <div>
+   <div style="display: flex; align-items: flex-start; align: center">
         <tr>
             <td>
                 <a href="https://www.linkedin.com/in/hazem-abo-el-seoud-168bb4290/"></a>
-                <p>Github</p>
+                <p styles=" color:'red'">Linked in</p>
             </td>
         </tr>
    </div>
