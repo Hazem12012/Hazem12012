@@ -14,6 +14,7 @@ Hi 👋, I'm Hazem Mahmoud El-Sayed
 ### About Me :
 
 <h3>Frontend Developer Building Interactive & Scalable Web Experiences by ReactJS💪.</h3>
+<a href="https://github.com/Hazem12012/Hazem_cv/blob/main/Hazem_CV.pdf" target="_blank"><img align="right" src="https://www.flaticon.com/free-icon/curriculum-vitae_909212" alt="My CV" width="70" ></a>
 
 <br>
 
