@@ -75,7 +75,7 @@ Hi 👋, I'm Hazem Mahmoud El-Sayed
       <br>TypeScript
     </td>
     <td align="center"  width="88">
-        <img src="./images/NextJS.svg" alt="Tailwind" width="44" height="44"/>
+        <img src="./images/NextJs.svg" alt="Tailwind" width="44" height="44"/>
       <br>NextJs
     </td>
   </tr>
