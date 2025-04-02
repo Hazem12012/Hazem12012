@@ -75,6 +75,18 @@ Hi 👋, I'm Hazem Mahmoud El-Sayed
       <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
       <br>Node.js
     </td>
+<td align="center"  width="88">
+        <img src="./images/TypeScript.png" alt="Tailwind" width="44" height="44"/>
+      <br>TypeScript
+    </td>
+    <td align="center"  width="88">
+        <img src="./images/NextJS.svg" alt="Tailwind" width="44" height="44"/>
+      <br>NextJs
+    </td>
+    <td align="center"  width="88">
+        <img src="./images/Material-Ui.svg" alt="Tailwind" width="44" height="44"/>
+      <br>Material-Ui
+    </td>
     <td align="center"  width="88">
         <img src="./images/bootstrap-5-1.svg" alt="Tailwind" width="44" height="44"/>
       <br>Bootstrap
