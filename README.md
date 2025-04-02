@@ -57,11 +57,6 @@ Hi 👋, I'm Hazem Mahmoud El-Sayed
     <td align="center" width="88">
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
       <br>React.js
-    </td>
-        <td align="center" width="88">
-        <img src="./images/vitejs.svg" alt="React" width="44" height="44"/>
-      <br>Vitejs  
-    </td>
         <td align="center" width="88">
         <img src="./images/c++.svg" alt="Python" width="44" height="44"/>
       <br>C++
@@ -94,6 +89,11 @@ Hi 👋, I'm Hazem Mahmoud El-Sayed
     <td align="center"  width="88">
         <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
       <br>Tailwind
+    </td>
+        </td>
+        <td align="center" width="88">
+        <img src="./images/vitejs.svg" alt="React" width="44" height="44"/>
+      <br>Vitejs  
     </td>
      <td align="center" width="88">
         <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
