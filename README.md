@@ -99,10 +99,7 @@ Hi 👋, I'm Hazem Mahmoud El-Sayed
         <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
       <br>Git
     </td>
-  <td align="center" width="88">
-        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
-      <br>VSCode
-     </td>
+
   <td align="center" width="88">
         <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
       <br>Figma
