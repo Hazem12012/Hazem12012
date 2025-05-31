@@ -32,7 +32,7 @@ Hi 👋, I'm Hazem Mahmoud El-Sayed
 <td><a href="mailto:hazemmahmoud12012@gmail.com" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="bkvjhvjhgvcjhvjycvjgcgh" height="30" width="40" /></a></td>
 
 </tr>
-<a href="https://github.com/Hazem12012/Hazem_cv/blob/main/Hazem_CV%20%20.pdf" target="_blank"><img align="right" src="./images/icon_CV.png" alt="My CV" width="70" ></a>
+<a href="https://github.com/Hazem12012/Hazem_cv/blob/main/CV.pdf" target="_blank"><img align="right" src="./images/icon_CV.png" alt="My CV" width="70" ></a>
 
  </div>
    <br>
